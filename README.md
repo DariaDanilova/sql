@@ -1,2 +1,2 @@
 # sql
-Разные задачи
+different SQL and PL/SQL tasks
